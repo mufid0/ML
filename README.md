@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Projects Portfolio
+# 🤖 Machine Learning Minor Projects 
 
 A curated collection of hands-on Machine Learning projects demonstrating core concepts such as supervised learning, unsupervised learning, optimization techniques, and real-world data analysis.
 
